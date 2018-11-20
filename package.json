@@ -1,0 +1,33 @@
+{
+  "name": "nodejs-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RasmusHaugeLinders/Nodejs-Modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RasmusHaugeLinders/Nodejs-Modules/issues"
+  },
+  "homepage": "https://github.com/RasmusHaugeLinders/Nodejs-Modules#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.1.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "morgan": "^1.9.1",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {
+    "debug": "^4.1.0",
+    "nodemon": "^1.18.6",
+    "run-script-os": "^1.0.3"
+  }
+}
