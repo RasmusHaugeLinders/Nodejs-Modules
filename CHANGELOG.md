@@ -6,10 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.1.1] - 2018-11-21
+## [1.1.1] - 2018-11-21
 ### Added
 * Denne changelog
 
-## [0.1.0] - 2018-11-21
+## [1.1.0] - 2018-11-21
 ### Added
 * En masse kode, så min kodebase virker

@@ -1,5 +1,5 @@
 # Kodebase // Rasmus Hauge
-
+[Changelog](./CHANGELOG.md)
 ## Kodestruktur
 
 ## Liste over NPM pakker
